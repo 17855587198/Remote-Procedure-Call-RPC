@@ -1,0 +1,13 @@
+/media/sf_sharedFolder/newKRPC/KRPC/build/CMakeFiles/edit_cache.dir
+/media/sf_sharedFolder/newKRPC/KRPC/build/CMakeFiles/rebuild_cache.dir
+/media/sf_sharedFolder/newKRPC/KRPC/build/src/CMakeFiles/krpc_core.dir
+/media/sf_sharedFolder/newKRPC/KRPC/build/src/CMakeFiles/edit_cache.dir
+/media/sf_sharedFolder/newKRPC/KRPC/build/src/CMakeFiles/rebuild_cache.dir
+/media/sf_sharedFolder/newKRPC/KRPC/build/example/CMakeFiles/edit_cache.dir
+/media/sf_sharedFolder/newKRPC/KRPC/build/example/CMakeFiles/rebuild_cache.dir
+/media/sf_sharedFolder/newKRPC/KRPC/build/example/callee/CMakeFiles/server.dir
+/media/sf_sharedFolder/newKRPC/KRPC/build/example/callee/CMakeFiles/edit_cache.dir
+/media/sf_sharedFolder/newKRPC/KRPC/build/example/callee/CMakeFiles/rebuild_cache.dir
+/media/sf_sharedFolder/newKRPC/KRPC/build/example/caller/CMakeFiles/client.dir
+/media/sf_sharedFolder/newKRPC/KRPC/build/example/caller/CMakeFiles/edit_cache.dir
+/media/sf_sharedFolder/newKRPC/KRPC/build/example/caller/CMakeFiles/rebuild_cache.dir
